@@ -28,6 +28,7 @@ def find_greater_pair(src)
     else
       new_array << src[index][1]
     end
+  end
     new_array
 end
 
